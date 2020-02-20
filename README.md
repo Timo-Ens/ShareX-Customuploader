@@ -2,5 +2,4 @@
 Custom uploader for Share-X
 
 Discord:
-[image]
-(https://i.jimdegroot.me/ssfndgid)
+![Example Discord]("https://i.jimdegroot.me/t521iszj")
