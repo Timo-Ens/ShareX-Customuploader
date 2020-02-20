@@ -1,5 +1,5 @@
 # ShareX-Customuploader
-Custom uploader for Share-X
+Custom uploader for Share-X.
 
 Discord:
 
