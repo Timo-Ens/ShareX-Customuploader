@@ -2,4 +2,4 @@
 Custom uploader for Share-X
 
 Discord:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://i.jimdegroot.me/hyzx00gm "Logo Title Text 1")
