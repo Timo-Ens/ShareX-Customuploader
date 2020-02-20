@@ -6,7 +6,7 @@ $sitecolor		= "Your-site-color" // Example: #316DFF
 $randomthings   = array(
     "Standard thing number uno",
     "Standard thing number douzo",
-	"Standard thing number treizo"
+    "Standard thing number treizo"
 );
 $rand           = array_rand($randomthings);
 $description    = $randomthings[$rand];
