@@ -1,8 +1,8 @@
 <?php
 // Settings
-$myname			= "Your-name-here" // Example: AgentJDG
-$siteurl 		= "Your-site-url-here" // Example: i.jimdegroot.me
-$sitecolor		= "Your-site-color" // Example: #316DFF
+$myname			= "Your-name-here"; // Example: AgentJDG
+$siteurl 		= "Your-site-url-here"; // Example: i.jimdegroot.me
+$sitecolor		= "Your-site-color"; // Example: #316DFF
 $randomthings   = array(
     "Standard thing number uno",
     "Standard thing number douzo",
